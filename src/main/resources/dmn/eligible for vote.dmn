@@ -70,12 +70,12 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="372" y="82" width="100" height="50"/>
+        <dc:Bounds x="171" y="202" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="dmnedge-drg-_074350E2-8750-4005-8169-E4B3D2CF446E-AUTO-SOURCE-AUTO-TARGET" dmnElementRef="_074350E2-8750-4005-8169-E4B3D2CF446E">
         <di:waypoint x="422" y="212"/>
-        <di:waypoint x="422" y="132"/>
+        <di:waypoint x="221" y="252"/>
       </dmndi:DMNEdge>
     </dmndi:DMNDiagram>
   </dmndi:DMNDI>
