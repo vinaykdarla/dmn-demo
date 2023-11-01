@@ -5,9 +5,9 @@
     <dmn:extensionElements/>
     <dmn:variable id="_EBDD1536-7532-4D5F-9424-22BEBCC6BC04" name="age" typeRef="number"/>
   </dmn:inputData>
-  <dmn:decision id="_B54F84C2-73C3-4C63-A443-0B140E37CCDF" name="can vote">
+  <dmn:decision id="_B54F84C2-73C3-4C63-A443-0B140E37CCDF" name="can person vote">
     <dmn:extensionElements/>
-    <dmn:variable id="_5751FBA8-7A50-4C6A-B754-B412B0317B92" name="can vote" typeRef="boolean"/>
+    <dmn:variable id="_5751FBA8-7A50-4C6A-B754-B412B0317B92" name="can person vote" typeRef="boolean"/>
     <dmn:informationRequirement id="_074350E2-8750-4005-8169-E4B3D2CF446E">
       <dmn:requiredInput href="#_AEAFD99C-3D5B-483F-899C-A30FD8E5DFD8"/>
     </dmn:informationRequirement>
